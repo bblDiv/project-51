@@ -1,0 +1,23 @@
+    h1{
+        display: flexbox;
+; text-align: center;   
+color: white; 
+background-image: url(temp.jpg); 
+   margin-top: 25px;}
+.start{
+    display: flexbox;
+    ; text-align: center;   
+
+font-family: 'Courier New', Courier, monospace;
+}
+.links{
+    font-family: 'Courier New', Courier, monospace;
+    color: wheat;
+
+}
+.grid{
+  
+   font-size: 15px;
+   border: 20px;
+}
+
